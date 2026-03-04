@@ -103,3 +103,43 @@ padding:40px;
 background:#020617;
 margin-top:60px;
 }
+#about{
+    max-width:900px;
+    margin:auto;
+    padding:80px 20px;
+}
+
+#about h2{
+    font-size:32px;
+    margin-bottom:25px;
+}
+
+#about h3{
+    margin-top:30px;
+    margin-bottom:15px;
+    color:#7c8cff;
+}
+
+#about p{
+    margin-bottom:18px;
+    line-height:1.7;
+    color:#cbd5e1;
+}
+
+.about-list{
+    padding-left:20px;
+    margin-bottom:25px;
+}
+
+.about-list li{
+    margin-bottom:10px;
+}
+.impact{
+margin-top:15px;
+padding:15px;
+border-left:3px solid #6c7cff;
+background:rgba(108,124,255,0.05);
+font-size:14px;
+line-height:1.6;
+color:#cbd5e1;
+}
